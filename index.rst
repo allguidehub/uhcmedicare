@@ -89,7 +89,7 @@ Absolutely! Use the UHC mobile app for quick access anytime.
 Registering and logging in to your UHC account is quick and easy. With just a few steps, you unlock access to all your health benefits, claims, and digital ID cards. Whether on a computer or mobile app, managing your UnitedHealthcare plan becomes simple and stress-free.
 
 **Start today — stay informed, stay healthy! 💙**
-
+ 
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px; margin-bottom:30px;">
