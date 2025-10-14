@@ -1,0 +1,13 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for UHC Medicare guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <meta name="google-site-verification" content="" />
+    <meta name="msvalidate.01" content="" />
+    <meta name="description" content="Learn how to register and log in to your UHC Medicare account through activate.uhc.com. Access benefits, manage claims, download ID cards, and use the UHC portal easily." />
+    <meta name="keywords" content="activate.uhc.com, UHC Medicare login, UHC account setup, UnitedHealthcare registration, Medicare online access" />
+    <meta name="robots" content="index, follow" />
+    <title>How to Register and Log In to Your UHC Medicare Account – Complete Guide</title>
+    {{ super() }}
+{% endblock %}
