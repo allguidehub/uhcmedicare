@@ -6,7 +6,7 @@ Registering and logging in through `activate.uhc.com <https://activate.uhc.com>`
 .. raw:: html
 
     <div style="text-align:center; margin-top:20px;">
-        <a href="https://link72.com/?aFqsfnZcT5a5wTXp12QYfT3uKvccLUUIgNXHiqFqmLrw9e0MH740Wge" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://us6.my?aHR0cHM6Ly9tZWRpY2FyZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             🔐 Activate UHC Account
         </a>
     </div>
@@ -33,7 +33,7 @@ Once registered, logging in is very easy:
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://link72.com/?aFqsfnZcT5a5wTXp12QYfT3uKvccLUUIgNXHiqFqmLrw9e0MH740Wge" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://us6.my?aHR0cHM6Ly9tZWRpY2FyZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             ✅ Log In to MyUHC
         </a>
     </div>
@@ -84,7 +84,7 @@ Registering and logging in to your UHC account is quick and easy. With just a fe
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px; margin-bottom:30px;">
-        <a href="https://link72.com/?aFqsfnZcT5a5wTXp12QYfT3uKvccLUUIgNXHiqFqmLrw9e0MH740Wge" style="background-color:#6c757d; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://us6.my?aHR0cHM6Ly9tZWRpY2FyZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#6c757d; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             🛟 Visit UHC Support
         </a>
     </div>
