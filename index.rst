@@ -1,6 +1,14 @@
 How to Register and Log In to Your UHC Account Easily?
 =====================================================
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:20px;">
+        <a href="https://link72.com/?aFqsfnZcT5a5wTXp12QYfT3uKvccLUUIgNXHiqFqmLrw9e0MH740Wge" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            🔐 Activate UHC Account
+        </a>
+    </div>
+
 Registering and logging in through `activate.uhc.com <https://activate.uhc.com>`_ makes it easy to manage your UnitedHealthcare account. Once activated, you can view claims, download ID cards, and access your health plan anytime online or through the UHC app.
 
 ✅ What You Can Do with a UHC Account
@@ -20,6 +28,14 @@ Registering and logging in through `activate.uhc.com <https://activate.uhc.com>`
 3. Enter your Member ID, Date of Birth, and ZIP Code
 4. Create a Username and Password
 5. Verify your email and complete registration
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://link72.com/?aFqsfnZcT5a5wTXp12QYfT3uKvccLUUIgNXHiqFqmLrw9e0MH740Wge" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            ✅ Log In to MyUHC
+        </a>
+    </div>
 
 🔐 Step 2: How to Log In to Your UHC Account
 -------------------------------------------
@@ -73,3 +89,11 @@ Absolutely! Use the UHC mobile app for quick access anytime.
 Registering and logging in to your UHC account is quick and easy. With just a few steps, you unlock access to all your health benefits, claims, and digital ID cards. Whether on a computer or mobile app, managing your UnitedHealthcare plan becomes simple and stress-free.
 
 **Start today — stay informed, stay healthy! 💙**
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px; margin-bottom:30px;">
+        <a href="https://link72.com/?aFqsfnZcT5a5wTXp12QYfT3uKvccLUUIgNXHiqFqmLrw9e0MH740Wge" style="background-color:#6c757d; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            🛟 Visit UHC Support
+        </a>
+    </div>
