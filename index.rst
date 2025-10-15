@@ -20,7 +20,7 @@ Registering and logging in through `activate.uhc.com <https://activate.uhc.com>`
 - Download or print your UHC ID card
 - Manage prescriptions and wellness tools
 
-🔐 Step 2: How to Log In to Your UHC Account
+🔐 How to Log In to Your UHC Account
 -------------------------------------------
 
 Once registered, logging in is very easy:
